@@ -1,0 +1,10 @@
+C:\Users\timoj\source\repos\MatrixCreator\MatrixCreator\bin\Debug\MatrixCreator.exe.config
+C:\Users\timoj\source\repos\MatrixCreator\MatrixCreator\bin\Debug\MatrixCreator.exe
+C:\Users\timoj\source\repos\MatrixCreator\MatrixCreator\bin\Debug\MatrixCreator.pdb
+C:\Users\timoj\source\repos\MatrixCreator\MatrixCreator\obj\Debug\MatrixCreator.csprojAssemblyReference.cache
+C:\Users\timoj\source\repos\MatrixCreator\MatrixCreator\obj\Debug\MatrixCreator.Form1.resources
+C:\Users\timoj\source\repos\MatrixCreator\MatrixCreator\obj\Debug\MatrixCreator.Properties.Resources.resources
+C:\Users\timoj\source\repos\MatrixCreator\MatrixCreator\obj\Debug\MatrixCreator.csproj.GenerateResource.cache
+C:\Users\timoj\source\repos\MatrixCreator\MatrixCreator\obj\Debug\MatrixCreator.csproj.CoreCompileInputs.cache
+C:\Users\timoj\source\repos\MatrixCreator\MatrixCreator\obj\Debug\MatrixCreator.exe
+C:\Users\timoj\source\repos\MatrixCreator\MatrixCreator\obj\Debug\MatrixCreator.pdb
